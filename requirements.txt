@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pymongo
+beautifulsoup4
+requests
+pytest
+httpx  # For async requests (if needed)
