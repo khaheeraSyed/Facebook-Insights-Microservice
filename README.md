@@ -42,9 +42,10 @@ This microservice allows users to fetch insights from Facebook Pages using their
 3. Install dependencies from `requirements.txt`.
 4. Start MongoDB.
 5. Run the application with:
-    uvicorn app.main:app --reload
+   uvicorn app.main:app --reload 
 
 6. Access API documentation at `http://127.0.0.1:8000/docs`.
+7. Open web browser and search for http://127.0.0.1:8000/frontend/index.html
 
 ## API Endpoints
 
